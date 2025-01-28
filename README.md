@@ -1,3 +1,3 @@
-# ML-Training-Suite
-This repository contains my machine learning model training code, focused on a variety of algorithms and approaches. It’s a place where I’ve gathered and organized all my ML-related projects, from model creation to training and evaluation. Feel free to explore, experiment, or use the scripts as a reference for your own ML projects!
-Author - Priya Mishra
+# Data Analytics and ML Projects
+This repository contains my machine learning model training code, along with a variety of data analytics projects. It includes work in Excel, PL/SQL, Python, Tableau, and ML, covering everything from model creation to training, evaluation, and analysis. It's a small glimpse of my demo projects.
+<br>Author - Priya Kumari Mishra
